@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTaasLogGenerator", "iTaasLogGenerator\iTaasLogGenerator.csproj", "{7386C3CD-66E4-4AAF-AE1B-B74E920789B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTaasLogGeneratorTeste", "iTaasLogGeneratorTeste\iTaasLogGeneratorTeste.csproj", "{A677376E-356D-4E93-A91B-6E8B47E2010C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7386C3CD-66E4-4AAF-AE1B-B74E920789B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7386C3CD-66E4-4AAF-AE1B-B74E920789B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7386C3CD-66E4-4AAF-AE1B-B74E920789B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7386C3CD-66E4-4AAF-AE1B-B74E920789B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A677376E-356D-4E93-A91B-6E8B47E2010C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A677376E-356D-4E93-A91B-6E8B47E2010C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A677376E-356D-4E93-A91B-6E8B47E2010C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A677376E-356D-4E93-A91B-6E8B47E2010C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DB70745-A53B-4CA4-B6E8-41F001469AE4}
+	EndGlobalSection
+EndGlobal
